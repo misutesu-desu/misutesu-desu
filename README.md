@@ -1,58 +1,72 @@
 # Abdullah Çafer
 
-**Software developer focused on Windows systems, desktop applications, and automation.**
+**Software developer building practical Windows applications, automation systems, and open-source tools.**
 
-I build practical tools that make complex or repetitive work simpler. My projects span native Win32 process control, .NET desktop interfaces, asynchronous Python systems, and local-first Electron applications. I care about predictable behavior, efficient resource use, clear interfaces, and software that people can install, understand, and maintain.
+I enjoy turning complicated or repetitive problems into software that feels simple to use.
 
-I’m open to software engineering opportunities—especially in Windows and desktop development, backend automation, developer tooling, and reliability-focused product work.
+I don’t stop when the code works. I take projects from the first idea to a usable release—including interface design, testing, packaging, documentation, updates, and user support.
+
+I’m currently open to software engineering opportunities, particularly in desktop development, automation, developer tools, and product-focused engineering.
+
+## What I bring
+
+- I can take ownership of a project from idea to release.
+- I care about the people using the software, not only the technology behind it.
+- I design for reliability, understandable behavior, and safe failure recovery.
+- I’m comfortable learning unfamiliar systems and working close to the operating system when necessary.
+- I maintain documentation, releases, and user communities around the software I build.
 
 ## Selected work
 
 ### [WinAnanicy](https://github.com/misutesu-desu/win-ananicy)
 
-A reversible process rule engine for Windows 10 and 11.
+An open-source Windows application that gives users transparent control over how selected programs use system resources.
 
-- Built a native C++20 engine and a .NET 8 WPF control center.
-- Applies CPU and I/O priority, affinity, EcoQoS, and CPU limits while matching rules are active, then restores the original process state.
-- Ships as installer and portable releases with automated tests, CI, CodeQL analysis, checksums, verification documentation, and English/Turkish localization.
+Instead of applying hidden system tweaks, WinAnanicy uses visible and reversible rules. It can manage process priority, CPU allocation, efficiency settings, and resource limits, then restore the original state when a rule is no longer active.
 
-[Repository](https://github.com/misutesu-desu/win-ananicy) · [Latest release](https://github.com/misutesu-desu/win-ananicy/releases/latest)
+I built the native C++ engine, the .NET desktop interface, automated tests, release pipeline, installer, portable package, verification documentation, and English/Turkish localization.
+
+[View repository](https://github.com/misutesu-desu/win-ananicy) · [Download latest release](https://github.com/misutesu-desu/win-ananicy/releases/latest)
 
 ### [MudaRemote](https://github.com/misutesu-desu/MudaRemote)
 
-A long-running, event-driven Python automation application with a Windows interface and an active user community.
+A Windows automation application for Mudae, a collectible character game played through Discord.
 
-- Designed timing-sensitive, multi-account workflows around `asyncio`, live event handling, rate limiting, and coordinated state.
-- Added secure token storage, atomic configuration writes, recovery paths, logging, and regression coverage for critical flows.
-- Maintains standalone Windows releases, an update pipeline, documentation, localization, and community-driven iteration.
+What started as a personal automation project grew into a maintained application with standalone Windows releases and an active Discord community of more than 300 members.
 
-[Repository](https://github.com/misutesu-desu/MudaRemote) · [Latest release](https://github.com/misutesu-desu/MudaRemote/releases/latest)
+The project handles timing-sensitive actions, multiple user configurations, live Discord events, safe credential storage, automatic updates, error recovery, logging, and regression testing.
+
+Maintaining MudaRemote has taught me how to improve a product through real user feedback, support different environments, investigate difficult runtime problems, and release changes without breaking existing configurations.
+
+[View repository](https://github.com/misutesu-desu/MudaRemote) · [Download latest release](https://github.com/misutesu-desu/MudaRemote/releases/latest)
 
 ### [ConvertAll Desktop](https://github.com/misutesu-desu/convertall-desktop)
 
-A local-first file conversion application for Windows.
+A privacy-focused Windows application for converting images, documents, audio, and video files locally.
 
-- Built with Electron, React, TypeScript, and Tailwind CSS.
-- Handles image, document, audio, and video conversion locally without uploading user files.
-- Integrates native tooling such as Sharp and FFmpeg and packages the result as Windows installer and portable builds.
+Files never need to be uploaded to an external service. The application combines a modern desktop interface with local conversion tools and can be packaged as both an installer and a portable application.
 
-[Repository](https://github.com/misutesu-desu/convertall-desktop)
+Built with Electron, React, TypeScript, Tailwind CSS, Sharp, and FFmpeg.
 
-## More projects
+[View repository](https://github.com/misutesu-desu/convertall-desktop)
 
-- [YT-Sentence-Flow](https://github.com/misutesu-desu/YT-Sentence-Flow) — a browser userscript that turns fragmented YouTube captions into readable sentences while preserving responsive positioning and styling.
-- [MudaLoot](https://github.com/misutesu-desu/MudaLoot) — an event-driven automation extension for MudaRemote.
+## Other projects
 
-## Technical focus
+- [YT-Sentence-Flow](https://github.com/misutesu-desu/YT-Sentence-Flow) — improves YouTube captions by combining fragmented subtitle text into complete, easier-to-read sentences.
+- [MudaLoot](https://github.com/misutesu-desu/MudaLoot) — a companion extension for MudaRemote that automates Mudae Kakera Loot cycles with controlled timing, confirmation handling, and synchronized state.
+
+## Technical background
 
 - **Languages:** C++20, C#, Python, TypeScript, JavaScript
-- **Windows and desktop:** Win32 APIs, .NET 8, WPF, Electron, Windows packaging
-- **Backend and automation:** `asyncio`, event-driven systems, state coordination, rate limiting, recovery logic
-- **Frontend:** React, WPF/XAML, Tailwind CSS, responsive desktop interfaces
-- **Quality and delivery:** CMake, GitHub Actions, CodeQL, automated tests, release pipelines, checksums, technical documentation
+- **Desktop development:** Win32 APIs, .NET 8, WPF, Electron
+- **Interfaces:** React, WPF/XAML, Tailwind CSS
+- **Automation:** event-driven systems, asynchronous workflows, rate limiting, state coordination, and recovery logic
+- **Delivery and quality:** automated testing, GitHub Actions, CodeQL, CMake, Windows packaging, release pipelines, checksums, localization, and technical documentation
 
 ## How I work
 
-I like owning the complete path from a problem to a usable release: understanding the real constraint, choosing a small and dependable design, testing failure paths, packaging the software, documenting it, and improving it with user feedback.
+I value software that solves a real problem and can be trusted by the person using it.
 
-If you are hiring for work that overlaps with these areas, or would like to collaborate on an open-source project, I would be glad to hear from you.
+My preferred way of working is to understand the problem first, build the smallest dependable solution, test how it behaves when things go wrong, and improve it through honest user feedback.
+
+If you are hiring for work that overlaps with these areas, or would like to collaborate on an open-source project, I would be happy to talk.
