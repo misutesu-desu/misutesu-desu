@@ -41,8 +41,7 @@ A local-first file conversion application for Windows.
 ## More projects
 
 - [YT-Sentence-Flow](https://github.com/misutesu-desu/YT-Sentence-Flow) — a browser userscript that turns fragmented YouTube captions into readable sentences while preserving responsive positioning and styling.
-- [FileHarbor](https://github.com/misutesu-desu/FileHarbor) — a configurable desktop utility that monitors and organizes files automatically.
-- [MudaLoot](https://github.com/misutesu-desu/MudaLoot) — an event-driven automation extension built around controlled pacing and state synchronization.
+- [MudaLoot](https://github.com/misutesu-desu/MudaLoot) — an event-driven automation extension for MudaRemote.
 
 ## Technical focus
 
