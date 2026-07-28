@@ -4,7 +4,7 @@
 
 I enjoy turning complicated or repetitive problems into software that feels simple to use.
 
-I don’t stop when the code works. I take projects from the first idea to a usable release—including interface design, testing, packaging, documentation, updates, and user support.
+I don’t stop when the code works. I take projects from the first idea to a usable release including interface design, testing, packaging, documentation, updates, and user support.
 
 I’m currently open to software engineering opportunities, particularly in desktop development, automation, developer tools, and product-focused engineering.
 
