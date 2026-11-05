@@ -18,6 +18,16 @@ I’m currently open to software engineering opportunities, particularly in desk
 
 ## Selected work
 
+### [Swift Explorer](https://github.com/misutesu-desu/swift-explorer)
+
+A file manager for Windows and Linux that looks and behaves like the Windows 11 File Explorer, written in Rust.
+
+Folders load on background threads, so large ones open without freezing the window, and search runs across subfolders in parallel. It ships as a single executable, updates itself on Windows, installs through Scoop, and has an interface in nine languages.
+
+The project has 21 stars and more than 800 release downloads.
+
+[View repository](https://github.com/misutesu-desu/swift-explorer) · [Download latest release](https://github.com/misutesu-desu/swift-explorer/releases/latest)
+
 ### [WinAnanicy](https://github.com/misutesu-desu/win-ananicy)
 
 An open-source Windows application that gives users transparent control over how selected programs use system resources.
@@ -57,7 +67,7 @@ Built with Electron, React, TypeScript, Tailwind CSS, Sharp, and FFmpeg.
 
 ## Technical background
 
-- **Languages:** C++20, C#, Python, TypeScript, JavaScript
+- **Languages:** Rust, C++20, C#, Python, TypeScript, JavaScript
 - **Desktop development:** Win32 APIs, .NET 8, WPF, Electron
 - **Interfaces:** React, WPF/XAML, Tailwind CSS
 - **Automation:** event-driven systems, asynchronous workflows, rate limiting, state coordination, and recovery logic
