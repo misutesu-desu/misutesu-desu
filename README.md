@@ -18,6 +18,18 @@ I’m currently open to software engineering opportunities, particularly in desk
 
 ## Selected work
 
+### [MudaRemote](https://github.com/misutesu-desu/MudaRemote)
+
+A Windows automation application for Mudae, a collectible character game played through Discord.
+
+What started as a personal automation project grew into a maintained application with standalone Windows releases, 88 stars, more than 18,000 release downloads, and an active Discord community of more than 300 members.
+
+The project handles timing-sensitive actions, multiple user configurations, live Discord events, safe credential storage, automatic updates, error recovery, logging, and regression testing.
+
+Maintaining MudaRemote has taught me how to improve a product through real user feedback, support different environments, investigate difficult runtime problems, and release changes without breaking existing configurations.
+
+[View repository](https://github.com/misutesu-desu/MudaRemote) · [Download latest release](https://github.com/misutesu-desu/MudaRemote/releases/latest)
+
 ### [Swift Explorer](https://github.com/misutesu-desu/swift-explorer)
 
 A file manager for Windows and Linux that looks and behaves like the Windows 11 File Explorer, written in Rust.
@@ -37,18 +49,6 @@ Instead of applying hidden system tweaks, WinAnanicy uses visible and reversible
 I built the native C++ engine, the .NET desktop interface, automated tests, release pipeline, installer, portable package, verification documentation, and English/Turkish localization.
 
 [View repository](https://github.com/misutesu-desu/win-ananicy) · [Download latest release](https://github.com/misutesu-desu/win-ananicy/releases/latest)
-
-### [MudaRemote](https://github.com/misutesu-desu/MudaRemote)
-
-A Windows automation application for Mudae, a collectible character game played through Discord.
-
-What started as a personal automation project grew into a maintained application with standalone Windows releases, 88 stars, more than 18,000 release downloads, and an active Discord community of more than 300 members.
-
-The project handles timing-sensitive actions, multiple user configurations, live Discord events, safe credential storage, automatic updates, error recovery, logging, and regression testing.
-
-Maintaining MudaRemote has taught me how to improve a product through real user feedback, support different environments, investigate difficult runtime problems, and release changes without breaking existing configurations.
-
-[View repository](https://github.com/misutesu-desu/MudaRemote) · [Download latest release](https://github.com/misutesu-desu/MudaRemote/releases/latest)
 
 ### [ConvertAll Desktop](https://github.com/misutesu-desu/convertall-desktop)
 
