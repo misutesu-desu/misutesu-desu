@@ -42,7 +42,7 @@ I built the native C++ engine, the .NET desktop interface, automated tests, rele
 
 A Windows automation application for Mudae, a collectible character game played through Discord.
 
-What started as a personal automation project grew into a maintained application with standalone Windows releases and an active Discord community of more than 300 members.
+What started as a personal automation project grew into a maintained application with standalone Windows releases, 88 stars, more than 18,000 release downloads, and an active Discord community of more than 300 members.
 
 The project handles timing-sensitive actions, multiple user configurations, live Discord events, safe credential storage, automatic updates, error recovery, logging, and regression testing.
 
