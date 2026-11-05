@@ -62,9 +62,9 @@ Built with Electron, React, TypeScript, Tailwind CSS, Sharp, and FFmpeg.
 
 ## Other projects
 
-- [YT-Sentence-Flow](https://github.com/misutesu-desu/YT-Sentence-Flow) — improves YouTube captions by combining fragmented subtitle text into complete, easier-to-read sentences.
+- [YT-Sentence-Flow](https://github.com/misutesu-desu/YT-Sentence-Flow): improves YouTube captions by combining fragmented subtitle text into complete, easier-to-read sentences.
 - [H3-AutoPromptChain](https://github.com/misutesu-desu/H3-AutoPromptChain): a ComfyUI node for unattended MiniMax H3 long-video generation from a list of prompts, with resume support for interrupted chains.
-- [MudaLoot](https://github.com/misutesu-desu/MudaLoot) — a companion extension for MudaRemote that automates Mudae Kakera Loot cycles with controlled timing, confirmation handling, and synchronized state.
+- [MudaLoot](https://github.com/misutesu-desu/MudaLoot): a companion extension for MudaRemote that automates Mudae Kakera Loot cycles with controlled timing, confirmation handling, and synchronized state.
 
 ## Technical background
 
